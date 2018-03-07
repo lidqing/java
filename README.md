@@ -9,5 +9,7 @@ java学习，资料整理
 
 ![baidu](http://www.baidu.com/img/bdlogo.gif)  
 
+![github仓库里的图片](https://github.com/guodongxiaren/ImageCache/raw/master/Logo/foryou.gif)  
+
 ```Java
 public static void main(String[] args) //java
