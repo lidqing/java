@@ -9,5 +9,5 @@ java学习，资料整理
 
 ![baidu](http://www.baidu.com/img/bdlogo.gif)  
 
-···Java
+```Java
 public static void main(String[] args) //java
